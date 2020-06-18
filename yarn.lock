@@ -4589,6 +4589,11 @@ readdirp@~3.4.0:
   dependencies:
     picomatch "^2.2.1"
 
+recoil@^0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/recoil/-/recoil-0.0.9.tgz#e595e031b935753f156310551b6b8192a7791d9d"
+  integrity sha512-PZUIj0abcKYcwBznxnTdb4oQqR9hUSa0djoxLuSxE20zU6CXqsMQLLTXxCZHIA8q6TmO1BrCq2BPeCdqtm5Hug==
+
 reflect.ownkeys@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/reflect.ownkeys/-/reflect.ownkeys-0.2.0.tgz#749aceec7f3fdf8b63f927a04809e90c5c0b3460"
